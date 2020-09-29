@@ -18,8 +18,6 @@ I completed this on Microsoft Azure with Transact SQL programming in 2017 during
 - Scalar-Valued Functions
 - Triggers
 
-*documentation for each file found in respective directory
-
 ## Tables
 - tblCurrencyExchange.sql
 - tblQuotes.sql
