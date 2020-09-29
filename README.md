@@ -2,6 +2,8 @@
 
 This repo contains SQL scripts to build a database for a personal investment tool and Excel and Access files to provide a dashboard to utilize various features connecting to the database. 
 
+SQL scripts use Transact-SQL programming, Excel and Access files use VBA programming.
+
 ## Features
 
 - User will be able to add stocks into the database using "AddStock.accdb"
